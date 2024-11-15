@@ -1,4 +1,4 @@
-package binarysearch
+package binarysearch.array1d
 
 /**
  * Binary Search
